@@ -1,0 +1,10 @@
+.App-header{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+  }
+  
+  li{
+    list-style: none;
+  }
+  
